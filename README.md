@@ -4,11 +4,12 @@
 # How to use?
 >let someRandomNumber = randomGenerator();
 
+<pre>
 
->for(let i = 0; i < 10; i++)
+for(let i = 0; i < 10; i++)
 
->    console.log(someRandomNumber.next()); //generates 10 random numbers 
-
+    console.log(someRandomNumber.next()); //generates 10 random numbers 
+</pre>
 
 
 Try executing 'randomGenerator.js' using nodejs 
