@@ -1,5 +1,3 @@
-//try executing this code using nodejs 
-//or follow the example in 'colorful.html'
 
 //linear congruential generator
 function randomGenerator(){
@@ -22,10 +20,3 @@ function randomGenerator(){
         next: next
     };
 }
-/*
-//how to use?
-let someRandomNumber = randomGenerator();
-
-for(let i = 0; i < 10; i++)
-    console.log(someRandomNumber.next());
-*/
