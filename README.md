@@ -2,12 +2,12 @@
 
 
 # How to use?
->
 >let someRandomNumber = randomGenerator();
->
->for(let i = 0; i < 10; i++)
->    console.log(someRandomNumber.next()); //generates 10 random numbers 
 
+
+>for(let i = 0; i < 10; i++)
+
+>    console.log(someRandomNumber.next()); //generates 10 random numbers 
 
 
 
